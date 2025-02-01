@@ -8,7 +8,7 @@ Hi 👋 I am Maya Baireddy. Welcome to my GitHub!
 
 🎓 Accomplishments: I'm currently in Algorithms 2 class at Storming Robotos Mrs. Mabrey.
 
-⚡ Fun fact: I enjoy the saber fencing, skiing and drawing in my free time.
+⚡ Fun fact: I enjoy reading, skiing and drawing in my free time.
 
 <!---
 mbaireddy/mbaireddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
