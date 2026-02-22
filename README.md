@@ -6,18 +6,18 @@ Welcome to my GitHub! I'm a student researcher working on computational physics,
 
 ## 🔭 Current Projects
 
+### [Gravitational Wave Modeling](https://github.com/mbaireddy/gravitational-wave-modeling)
+Numerical relativity simulation and analysis of binary black hole mergers using the **Einstein Toolkit** and **MAYAWAVES** library. Analyzes waveform data from the University of Texas Gravitational Wave Catalog across 8 mass ratios.
+
+### [EDM NJ GHG Prediction](https://github.com/mbaireddy/edm-nj-ghg-prediction)
+Using **Empirical Dynamic Modeling (pyEDM)** to predict whether New Jersey can meet its **Paris Accord** greenhouse gas reduction targets (50% by 2030, 80% by 2050) based on historical emission trends.
+
 ### [JAM Session - RoboCupJunior OnStage 2024](https://github.com/mbaireddy/JAM-Session-RCJ-Onstage-2024)
 AI-driven robotics project that interprets **American Sign Language (ASL)** and transforms it into music played on a piano using a fully autonomous robotic system. As a member of Team "JAM Session" from Storming Robots (Branchburg, NJ):
 - **1st Place** -- RoboCupJunior USA National Competition (Edison, NJ, May 2024)
 - **2nd Place** -- RoboCupJunior International Competition (Eindhoven, Netherlands, July 2024)
 - Designed hand sign recognition prototype using Python and AI libraries
 - Modeled and 3D-printed robotic components in Autodesk Fusion 360
-
-### [Gravitational Wave Modeling](https://github.com/mbaireddy/gravitational-wave-modeling)
-Numerical relativity simulation and analysis of binary black hole mergers using the **Einstein Toolkit** and **MAYAWAVES** library. Analyzes waveform data from the University of Texas Gravitational Wave Catalog across 8 mass ratios.
-
-### [EDM NJ GHG Prediction](https://github.com/mbaireddy/edm-nj-ghg-prediction)
-Using **Empirical Dynamic Modeling (pyEDM)** to predict whether New Jersey can meet its **Paris Accord** greenhouse gas reduction targets (50% by 2030, 80% by 2050) based on historical emission trends.
 
 ---
 
