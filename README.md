@@ -1,8 +1,6 @@
 # Hi 👋 I'm Maya Baireddy
 
-Competitive programmer (ACSL Junior Division) and student researcher passionate about computational physics, environmental data science, and AI-driven robotics.
-
-I build tools that bridge science and code -- from simulating **black hole mergers** with numerical relativity, to forecasting **New Jersey's climate trajectory** using nonlinear time-series methods, to designing an **ASL-to-music robot** that earned 1st place nationally and 2nd place internationally at RoboCupJunior 2024. I'm driven by curiosity, problem-solving, and using technology to make a real-world impact.
+I build tools that bridge science and code from simulating **black hole mergers** with numerical relativity, to forecasting **New Jersey's climate trajectory** using nonlinear time-series methods, to designing an **ASL-to-music robot** that earned 1st place nationally and 2nd place internationally at RoboCupJunior 2024. I'm driven by curiosity, problem-solving, and using technology to make a real-world impact.
 
 ---
 
