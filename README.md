@@ -1,6 +1,6 @@
 # Hi 👋 I'm Maya Baireddy
 
-Welcome to my GitHub! I'm a student researcher working on computational physics, environmental data science, and AI-driven robotics.
+Competitive programmer (ACSL Junior Division) and student researcher passionate about computational physics, environmental data science, and AI-driven robotics.
 
 ---
 
